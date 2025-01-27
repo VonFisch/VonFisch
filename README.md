@@ -13,7 +13,7 @@
 ## Skills
 - Full-Stack Development
 - Web Development
-- Analyse and modelize datas
+- Analyse and model datas
 - Documentation
 
 ## Beloved Tools
