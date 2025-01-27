@@ -3,9 +3,9 @@
 ## About Me
 - 👀 I’m interested in video games, AI, and web development.
 - 🌱 I’m currently learning full-stack development.
-- 💞️ I’m looking to collaborate on software or web development projects and learn to work in a team.
+- 💞️ I’m looking to collaborate on software or web development projects and learn to work in a team. (A mentoring in a Swiss company woud be great!)
 - 📫 How to reach me: [fischer.gregoire@proton.me](fischer.gregoire@proton.me)
-- ⚡ Fun fact: Music fan and freestyle FPV pilot
+- ⚡ Fun fact: Music fan and freestyle FPV pilot.
 
 ## Featured Projects
 - [Simple calculator](https://github.com/VonFisch/SimpleCalc)
