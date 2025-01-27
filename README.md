@@ -22,6 +22,8 @@
 - Markdown
 - Mermaid
 - PlantUML
+- Git
+- Docker
 
 ## Beloved techs
 - Python
