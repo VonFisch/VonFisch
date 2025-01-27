@@ -5,11 +5,10 @@
 - 🌱 I’m currently learning full-stack development.
 - 💞️ I’m looking to collaborate on software or web development projects and learn to work in a team.
 - 📫 How to reach me: [fischer.gregoire@proton.me](fischer.gregoire@proton.me)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Music fan and freestyle FPV pilot
 
 ## Featured Projects
-
+Coming soon...
 
 ## Skills
 - Full-Stack Development
