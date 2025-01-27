@@ -14,6 +14,22 @@
 - Full-Stack Development
 - Video Game Development
 - Web Development
+- Analyse and modelize datas
+- Documentation
+
+## Beloved Tools
+- VS Code
+- Markdown
+- Mermaid
+- PlantUML
+
+## Beloved techs
+- Python
+- Java + Spring Boot
+- Javascript + node.js
+- Typescript + Angular
+- MariaDB
+- MongoDB
 
 ## Contact
 - [Email](mailto:fischer.gregoire@proton.me)
