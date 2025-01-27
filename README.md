@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Music fan and freestyle FPV pilot
 
 ## Featured Projects
-Coming soon...
+- [Simple calculator](https://github.com/VonFisch/SimpleCalc)
 
 ## Skills
 - Full-Stack Development
