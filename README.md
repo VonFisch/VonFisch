@@ -12,7 +12,6 @@
 
 ## Skills
 - Full-Stack Development
-- Video Game Development
 - Web Development
 - Analyse and modelize datas
 - Documentation
