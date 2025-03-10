@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @VonFisch
+# 👋 Hi, I’m Greg
 
 ## About Me
 - 👀 I’m interested in video games, AI, and web development.
