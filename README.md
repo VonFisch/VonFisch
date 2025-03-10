@@ -14,23 +14,38 @@
 - Full-Stack Development
 - Web Development
 - Analyse and model datas
-- Documentation
+- GUI design
+- Gitea administrator
+- Documentation redaction
 
 ## Beloved Tools
-- VS Code
-- Markdown
-- Mermaid
-- PlantUML
-- Git
-- Docker
+- [VS Code](https://code.visualstudio.com/)
+- [Markdown](https://www.markdownguide.org/)
+- [Mermaid](https://mermaid.js.org/)
+- [PlantUML](https://plantuml.com/en/)
+- [Pandoc](https://pandoc.org/)
+- [Git](https://git-scm.com/)
+- [Docker](https://www.docker.com/)
+- [Ghostty](https://ghostty.org/)
+- [PenPot](https://penpot.app/)
 
 ## Beloved techs
-- Python
 - Java + Spring Boot
 - Javascript + node.js
 - Typescript + Angular
+- C#
+- Python
 - MariaDB
 - MongoDB
+- Bash
+
+## Endless dev loop
+```mermaid
+flowchart TD
+    B[SmokeACig] --> Y{Tired ?}
+    Y --> |no| Z[Code]
+    Z --> B
+```
 
 ## Contact
 - [Email](mailto:fischer.gregoire@proton.me)
